@@ -14,4 +14,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Maked by
 
 * Dr. Zvi Citron (Ben_Gurion university of the Negev)
-* Adam H. Agbaria (Ben_Gurion university of the Negev) 
+* Adam H. Agbaria (Ben_Gurion university of the Negev)
