@@ -1,11 +1,11 @@
-# bgu_physics_labs
+# bgu_physics_lab_b
 
 This package contains functions that help students and researchers to analyze the data such as regression and aobtained the goodnees.
 
 ## Getting Started
 
 To install the package:\
-      pip install bgu_physics_lab
+      pip install bgu_physics_lab_b
 
 ## License
 
